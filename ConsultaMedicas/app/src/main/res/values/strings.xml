@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Consulta Medicas</string>
+    <string name="title_activity_cadastro_consulta">CadastroConsulta</string>
+</resources>
